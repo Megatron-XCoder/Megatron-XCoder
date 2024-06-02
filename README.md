@@ -1,4 +1,4 @@
-![header](https://github.com/Megatron-XCoder/Megatron-XCoder/blob/main/Untitled%20design.png)
+<center>![header](https://github.com/Megatron-XCoder/Megatron-XCoder/blob/main/Untitled%20design.png)</center>
 <h1 align="center">Hi 👋, I'm Sanjeev Kumar Das</h1>
 <h3 align="center">A highly motivated MCA - Cloud Computing & DevOps** pursuing student. Continuously learning and striving to become a top performer in the developer's community.</h3>
 
