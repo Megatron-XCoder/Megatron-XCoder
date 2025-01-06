@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **Crisiscrush525@gmail.com / +91 70180-21841**
 
-- 📄 Know More About Me (RESUME) [https://drive.google.com/file/d/1N3-xAVazloiTV8bavdYmcVG6t5lvegeq/view?usp=sharing](https://drive.google.com/file/d/1DqnGn-jPvE86wll4Bvh1juDYqMzFdik2/view?usp=drive_link)
+- 📄 Know More About Me (RESUME) [https://drive.google.com/file/d/1N3-xAVazloiTV8bavdYmcVG6t5lvegeq/view?usp=sharing](https://drive.google.com/file/d/1NCZ6zTyROBUQKcgmBpAeOLIdDrdoKbtf/view?usp=drive_link)
 
 - ⚡ Fun fact **I'm Funny 😁, Coder 🧑‍💻, Anime Fan 👻, Gamer 🎮... well if you want to know more!! check out this awesome Github Profile weebs.**
 
